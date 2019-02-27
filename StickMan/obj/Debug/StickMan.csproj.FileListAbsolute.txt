@@ -1,0 +1,6 @@
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\bin\Debug\StickMan.exe.config
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\bin\Debug\StickMan.exe
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\bin\Debug\StickMan.pdb
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\obj\Debug\StickMan.csprojResolveAssemblyReference.cache
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\obj\Debug\StickMan.exe
+c:\users\nian\documents\visual studio 2012\Projects\StickMan\StickMan\obj\Debug\StickMan.pdb
